@@ -2,7 +2,7 @@
 	"ip":"derreeeneeem.aternos.me",
 	"port": "57604",
 	"name": "Jarvis",
-	"auto-night-skip":"true",
+	"auto-night-skip":"false",
 	"login-enabled":"true",
 	"register-cmd":"/register 12345 ",
 	"login-cmd":"/login 12345 "
