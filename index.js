@@ -46,11 +46,11 @@ function task(i) {
 	
   setTimeout(function() { 
     if(first == true){
-	bot.chat("Diperbarui oleh vanevgt")
+	bot.chat("Halo aku Jarvis aku di buat oleh deren")
 	first = false;
 	}
 	else{
-		bot.chat("Diperbarui oleh vanevgt")
+		bot.chat("Halo aku Jarvis aku di buat oleh deren")
 		first = true;
 	}
   }, 3600000 * i); 
